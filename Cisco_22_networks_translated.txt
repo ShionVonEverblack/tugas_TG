@@ -1,0 +1,71 @@
+ISI DATASET:
+
+• Terdapat 22 graf terpisah (disjoint) yang merepresentasikan komunikasi
+jaringan dari aplikasi terdistribusi. Semua data telah
+di-de-identifikasi (baik IP/node maupun nomor port dipetakan ke bilangan
+bulat).
+
+Informasi Sitasi: “A Dataset of Networks of Computing Hosts”, IWSPA
+2022. Omid Madani, Sai Ankith Averineni, Shashidhar Gandham
+
+Selain file README ini, silakan lihat paper di atas untuk informasi
+lebih lanjut mengenai graf.
+
+------------------------------------------------------------------------
+
+UNTUK 20 GRAF (dir_20_graphs):
+
+• Edge dikumpulkan selama 4 hari dalam dua bulan berbeda. • Hari pertama
+di Januari, tiga hari lainnya di Maret 2019. • Setiap hari mencatat
+beberapa jam berturut-turut.
+
+------------------------------------------------------------------------
+
+GRAF KECIL g21 (dir_g21_small_workload_with_gt):
+
+• Memiliki ground truth (pengelompokan berdasarkan fungsi node &
+hostname). • Edge dikumpulkan selama beberapa jam dalam beberapa hari. •
+Total node: 317 • Undirected edges: 1697 • Directed edges: 3025 •
+Port-differentiated directed edges: 10851 • 59 node memiliki ground
+truth grouping. • Terdapat 23 grup ground truth.
+
+------------------------------------------------------------------------
+
+GRAF e1 / g22 (dir_g22_extra_graph_with_gt):
+
+• Edge dikumpulkan selama beberapa bulan (2021–2022). • Total node:
+33241 • Undirected edges: 689951 • Directed edges: 702361 •
+Port-differentiated directed edges: 785879 • Hampir 300 hostname unik. •
+486 node memiliki hostname. • 10 grup kandidat ground truth.
+
+------------------------------------------------------------------------
+
+STRUKTUR FILE EDGE:
+
+Setiap baris memiliki 4 kolom: 1. Graph ID 2. Client (consumer) node 3.
+Server (provider) node 4. CSV port/protocol dan jumlah paket
+
+Contoh: g1 1 2 1p6-22,1p17-4,2p6-12
+
+Artinya: Graph g1, node 1 ke node 2, menggunakan port 1 protokol 6
+dengan 22 paket, dll.
+
+------------------------------------------------------------------------
+
+STATISTIK UTAMA (20 GRAF):
+
+Contoh: g15: Nodes: 70172 Undirected edges: 113082 Directed edges:
+145369 Port-directed edges: 158807
+
+Graf terbesar berdasarkan node: g4 (278739 node) Graf dengan port unik
+terbanyak: g2 (>100k port unik)
+
+------------------------------------------------------------------------
+
+KESIMPULAN UMUM:
+
+• Graf bersifat directed dan port-labeled. • Banyak graf menunjukkan
+distribusi derajat tinggi (scale-free tendencies). • Longevity rendah:
+sebagian besar edge hanya muncul di sedikit file. • Graf e1 tidak mudah
+di-peeling (menghapus node derajat 1 tidak banyak mengurangi graf). •
+Node sering terhubung ke banyak node lain (multi-service interaction).
