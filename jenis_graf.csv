@@ -1,0 +1,222 @@
+Graph ID,Nama File,Ada Self-Loop,Apakah Multigraph,Jenis Graf
+g21,edges_12hrs_feb10_all_49sensors.csv.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_1days_tillFeb9_partial_sensors.csv.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_2days_feb10thruFeb11_all_49sensors.csv.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_4days_feb10thruFeb13_all_49sensors.csv.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_6days_tillFeb9_partial_sensors.csv.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100400.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100500.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100600.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100700.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100800.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202100900.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101400.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101500.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101600.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101700.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101800.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202101900.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202102000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202102100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202102200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202102300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110400.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110500.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110600.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110700.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110800.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202110900.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111400.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111500.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111600.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111700.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111800.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202111900.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202112000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202112100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202112200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202112300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120400.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120500.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120600.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120700.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120800.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202120900.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121400.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121500.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121600.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121700.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121800.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202121900.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202122000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202122100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202122200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202122300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130400.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130500.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130600.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130700.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130800.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202130900.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131400.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131500.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131600.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131700.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131800.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202131900.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202132000.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202132100.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202132200.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g21,edges_to_ports_202202132300.anon.txt,Ya,Tidak,Directed Simple Graph with Loops
+g1,out1_1.txt,Ya,Ya,Directed Multigraph with Loops
+g3,out1_2.txt,Ya,Ya,Directed Multigraph with Loops
+g2,out1_3.txt,Ya,Ya,Directed Multigraph with Loops
+g2,out1_4.txt,Ya,Ya,Directed Multigraph with Loops
+g2,out1_5.txt,Ya,Ya,Directed Multigraph with Loops
+g1,out1_6.txt,Ya,Ya,Directed Multigraph with Loops
+e1,out2021_1_1.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_1_2.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_1_3.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_1_4.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_1_5.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_1_6.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_1_7.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_3_1.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_3_2.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_3_3.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_3_4.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_3_5.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_3_6.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_3_7.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_4_1.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_4_2.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_4_3.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_4_4.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_4_5.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_4_6.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_4_7.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_5_1.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_5_2.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_5_3.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_5_4.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_5_5.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_5_6.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2021_5_7.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_1.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_10.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_11.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_12.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_13.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_2.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_3.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_4.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_5.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_6.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_7.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_8.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_10_9.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_1.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_10.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_11.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_12.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_13.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_2.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_3.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_4.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_5.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_6.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_7.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_8.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_6_9.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_1.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_10.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_11.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_12.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_13.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_2.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_3.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_4.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_5.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_6.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_7.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_8.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_7_9.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_1.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_10.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_11.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_12.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_13.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_2.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_3.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_4.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_5.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_6.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_7.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_8.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_8_9.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_1.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_10.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_11.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_12.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_13.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_2.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_3.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_4.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_5.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_6.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_7.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_8.txt,Tidak,Tidak,Directed Simple Graph
+e1,out2022_9_9.txt,Tidak,Tidak,Directed Simple Graph
+g12,out2_1.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out2_2.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out2_3.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out2_4.txt,Ya,Ya,Directed Multigraph with Loops
+g2,out2_5.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out2_6.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out2_7.txt,Ya,Ya,Directed Multigraph with Loops
+g6,out3_1.txt,Ya,Ya,Directed Multigraph with Loops
+g2,out3_2.txt,Ya,Ya,Directed Multigraph with Loops
+g5,out3_3.txt,Ya,Ya,Directed Multigraph with Loops
+g15,out3_4.txt,Ya,Ya,Directed Multigraph with Loops
+g2,out3_5.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out3_6.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out3_7.txt,Ya,Ya,Directed Multigraph with Loops
+g2,out4_1.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out4_2.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out4_3.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out4_4.txt,Ya,Ya,Directed Multigraph with Loops
+g2,out4_5.txt,Ya,Ya,Directed Multigraph with Loops
+g6,out4_6.txt,Ya,Ya,Directed Multigraph with Loops
+g12,out4_7.txt,Ya,Ya,Directed Multigraph with Loops
